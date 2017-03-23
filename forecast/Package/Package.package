@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="786634a8-f0b5-4525-b8ee-7d33598d3de2" 
+        solutionId="786634a8-f0b5-4525-b8ee-7d33598d3de2" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="forecast"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="297c079b-323d-4f19-acb1-9c99ca487524" />
+  </features>
+</package>
